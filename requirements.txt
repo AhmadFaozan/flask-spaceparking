@@ -27,6 +27,7 @@ thop
 torch
 torchvision
 tqdm
+MySQL
 
 
 # YOLOv5 requirements
